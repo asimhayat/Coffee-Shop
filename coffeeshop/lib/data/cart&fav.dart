@@ -1,0 +1,3 @@
+List cartItems = [];
+
+List favItems = [];
